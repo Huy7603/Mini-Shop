@@ -1,14 +1,13 @@
-# Mini-Shop
+# Mini Shop
 
 ## Giới thiệu
-Website bán hàng demo sử dụng HTML, CSS, JS.
+Website bán hàng demo sử dụng HTML, CSS, JavaScript.
 
 ## Chức năng
-- Xem sản phẩm
-- Tìm kiếm
-- Lọc giá
-- Giỏ hàng
-- Đăng nhập
+- Hiển thị sản phẩm
+- Tìm kiếm và lọc
+- Giỏ hàng popup
+- Đăng nhập / đăng ký
 - Dark mode
 
 ## Công nghệ
